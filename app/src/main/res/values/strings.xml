@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+    <string name="msg_snacks">Give me some snacks</string>
+    <string name="no_snacks">No snacks :(</string>
+    <string name="msg_snackbar">Here are some snacks</string>
+    <string name="take_away">Take Away</string>
+    <string name="got_snacks">Got snacks!</string>
+</resources>
